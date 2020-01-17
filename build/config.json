@@ -1,0 +1,17 @@
+{
+ "keys": {
+  "access_key": "",
+  "secret_key": ""
+ },
+ "buy_volume": 0,
+ "sell_volume": 0,
+ "currency_rate_change_percent": 0,
+ "minfin_values": {
+  "last_check": 0,
+  "buy_rate": 0,
+  "sell_rate": 0
+ },
+ "orders_placement_time": {
+  "usdtuah": 0
+ }
+}
